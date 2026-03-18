@@ -25,14 +25,17 @@
 .btn {
     background-color: white;
     color: #DADADB;
-    padding: 16px;
-    font-size: 16px;
     border: none;
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: all 0.5s ease-in-out;
 }
 
 .navbar-option {
-  position: relative;
-  display: inline-block;
+    position: relative;
+    display: inline-block;
+    padding: 16px;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -57,14 +60,8 @@
 .dropdown-content a:hover {background-color: #ddd;}
 
 /* Show the dropdown menu on hover */
-.navbar-option:hover .dropdown-content {display: block;}
+.dropdown-btn:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.navbar-option:hover  {background-color: #3e8e41;} 
+.dropdown-btn:hover  {background-color: #3e8e41;} 
 
-
-.option {
-    font-size: 1rem;
-    font-weight: 600;
-    transition: all 0.5s ease-in-out;
-}
