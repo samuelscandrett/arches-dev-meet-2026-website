@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem 0;
-    background-color: #1D1E20;
+    /* background-color: #1D1E20; */
 }
 
 .nav-container .logo {
@@ -22,24 +22,49 @@
     gap: 0 2rem;
 }
 
-.link {
+.btn {
+    background-color: white;
+    color: #DADADB;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.navbar-option {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.navbar-option:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.navbar-option:hover  {background-color: #3e8e41;} 
+
+
+.option {
     font-size: 1rem;
     font-weight: 600;
     transition: all 0.5s ease-in-out;
-}
-
-.cta-btn {
-    background-color: #FFCC1A;
-    color: #1D1E20;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
-    font-size: 1rem;
-    font-weight: 600;
-    transition: all 0.5s ease-in-out;
-    cursor: pointer;
-    display: inline-block;
-}
-
-.cta-btn:hover {
-    background-color: #DADADB;
 }
