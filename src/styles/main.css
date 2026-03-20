@@ -10,16 +10,7 @@ body {
     line-height: 1.5;
     /* background-color: #1D1E20; */
     color: #DADADB;
-    width: 900px;
     margin: 0 auto;
-    padding: 0 0;
-}
-
-@media screen and (max-width: 768px) {
-    body {
-        width: 100%;
-        padding: 0 2rem;
-    }
 }
 
 a {
@@ -324,7 +315,7 @@ li {
 
 /* project-layout */
 .project-layout {
-    padding: 5rem 0;
+    padding: 50px 150px 50px 150px;
 }
 
 .project-layout h2 {
