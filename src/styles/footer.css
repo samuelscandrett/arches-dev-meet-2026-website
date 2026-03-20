@@ -6,15 +6,13 @@ hr {
     margin: 0 auto;
 }
 
-@media screen and (max-width: 768px) {
-    hr {
-        width: 100%;
-    }
+.copyright{
+    text-align: center;
 }
 
 .footer-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     padding: 2rem 0;
     background-color: #1D1E20;
