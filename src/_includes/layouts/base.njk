@@ -20,7 +20,9 @@
     <body>
         <div>
             {% include "components/navbar.njk" %}
-                {{ content | safe }}
+                {% block content %}
+                    {{ content | safe }}
+                {% endblock %}
             {% include "components/footer.njk" %}
         </div>
     </body>
