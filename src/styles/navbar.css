@@ -6,7 +6,7 @@
     padding-right: 30px;
     padding-bottom: 10px;
     padding-left: 80px;
-    /* background-color: #1D1E20; */
+    background-color: #1D1E20;
 }
 
 .nav-container .logo {
@@ -26,8 +26,8 @@
 }
 
 .btn {
-    background-color: white;
     color: #DADADB;
+    background-color: #1D1E20;
     border: none;
     font-family: sans-serif;
     font-size: 1rem;
@@ -53,7 +53,7 @@
 
 /* Links inside the dropdown */
 .dropdown-content a {
-    color: black;
+    color: #f1f1f1;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -61,7 +61,8 @@
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-    background-color: #ddd;
+    color: #1D1E20;
+    background-color: #f1f1f1;
 }
 
 /* Show the dropdown menu on hover */
@@ -70,6 +71,6 @@
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown-btn:hover {
+/* .dropdown-btn:hover {
     background-color: #3e8e41;
-}
+} */
