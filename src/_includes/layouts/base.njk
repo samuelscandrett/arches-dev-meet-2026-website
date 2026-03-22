@@ -15,15 +15,15 @@
         <link rel="stylesheet" href="/styles/main.css" />
         <link rel="stylesheet" href="/styles/navbar.css" />
         <link rel="stylesheet" href="/styles/footer.css" />
-        <title>Arches Developer Meeting 2026</title>
+        <title>Arches 2026 Developer Meeting</title>
     </head>
     <body>
         <div>
-            {% include "components/navbar.njk" %}
+            {% include "partials/navbar.njk" %}
                 {% block content %}
                     {{ content | safe }}
                 {% endblock %}
-            {% include "components/footer.njk" %}
+            {% include "partials/footer.njk" %}
         </div>
     </body>
 </html>

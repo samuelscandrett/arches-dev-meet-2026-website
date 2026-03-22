@@ -1,9 +1,22 @@
 {% extends "layouts/base.njk" %}
 
 {% block content %}
-    <div class="project-layout">
-        <h2>{{title}}</h2>
-        <img src="{{image}}" alt="image" class="banner-img" />
-        {{ content | safe }}
-    </div>
+<section class="hero">Title here</section>
+
+<section>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor nunc mauris, sit amet placerat tortor lobortis dapibus. Nam lectus eros, maximus ac magna vel, congue consequat eros. Fusce id pretium diam. Cras sit amet pharetra ante. Sed quis commodo quam, vel facilisis ipsum. Vestibulum sodales iaculis arcu, et fringilla nisi ullamcorper sed. Donec interdum sit amet est non accumsan. Donec non augue feugiat, fermentum nunc non, convallis est. Cras vel ligula nec odio faucibus ultricies. Sed vulputate tortor eget pretium convallis. Cras interdum elit eget mi porta suscipit. Morbi ut velit diam. Etiam finibus eros et efficitur rutrum. Quisque viverra metus ac eleifend imperdiet. Quisque pretium ut purus vitae tempus. Duis varius risus congue velit faucibus, sed interdum purus consectetur.
+  </p>
+  <p>
+    Cras volutpat velit non mi sagittis condimentum. Cras tempor aliquet turpis sed pretium. Nunc aliquet sodales turpis quis ultrices. Duis auctor accumsan enim, quis maximus ex malesuada a. Donec a felis ut erat tempus euismod non vel neque. Proin lectus massa, sagittis at imperdiet nec, consequat ut neque. Sed vel placerat neque, vel varius urna. Vivamus interdum euismod urna a accumsan. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  </p>
+  <p>
+    Nulla rhoncus aliquam mauris, eu pretium dolor auctor in. Maecenas a sollicitudin dolor, eget commodo quam. Proin et dui sed ligula vulputate egestas. Quisque eget augue vitae purus placerat pharetra. Aliquam rhoncus convallis lorem, sed facilisis odio blandit scelerisque. Vivamus viverra urna ac nulla interdum, eget ullamcorper leo maximus. Mauris nec feugiat enim. Nam congue, dui sit amet vestibulum posuere, leo mauris fermentum lorem, eget bibendum velit nunc quis leo.
+  </p>
+</section>
+
+{# <div class="project-layout">
+    <h2>{{title}}</h2>
+    {{ content | safe }}
+</div> #}
 {% endblock %}
