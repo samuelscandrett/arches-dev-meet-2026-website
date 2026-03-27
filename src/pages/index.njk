@@ -2,22 +2,31 @@
 layout: layouts/base.njk
 title: Home
 permalink: /index.html
+script: /assets/js/slides.js
 ---
 
 <section class="hero">
-  <img src="/assets/images/pot-of-gold.jpeg" alt="Sheffield header image" class="hero-bg-image">
-  
-  <div class="hero-overlay">
-    <div class="hero-text-box">
-      <h1>Arches Developer Meeting 2026</h1>
-      <p>June 8-10 | Millennium Gallery, Sheffield, UK</p>
+    <div class="hero-slides">
+        <img src="/assets/images/sheffield/pot-of-gold.jpeg" alt="Sheffield from South Street" class="hero-bg-image active">
+        <img src="/assets/images/sheffield/park-hill-ef-2.jpg" alt="Park Hill" class="hero-bg-image">
     </div>
 
-    <div class="hero-logos">
-      <img src="/assets/images/arches/arches-logo-red.png" alt="Arches" class="hero-logo">
-      <img src="/assets/images/k-int/k-int-logo.png" alt="K-Int" class="hero-logo">
+    <div class="hero-overlay">
+        <div class="hero-text-box">
+            <h1>Arches Developer Meeting 2026</h1>
+            <p>June 8-10 | Millennium Gallery, Sheffield, UK</p>
+        </div>
+
+        <div class="hero-logos">
+            <img src="/assets/images/arches/arches-logo-red.png" alt="Arches" class="hero-logo">
+            <img src="/assets/images/k-int/k-int-logo.png" alt="K-Int" class="hero-logo">
+        </div>
     </div>
-  </div>
+
+    <div class="hero-progress-container">
+        <div class="hero-progress-bar" id="progress-bar"></div>
+    </div>
+
 </section>
 
 <section class="event-info-container">
@@ -39,3 +48,5 @@ permalink: /index.html
 <section>
     <p></p>
 </section>
+
+<script src="{{ script }}"></script>
