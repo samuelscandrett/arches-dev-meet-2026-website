@@ -117,8 +117,9 @@
 
 .event-info-block {
     flex: 1;
-    padding: 50px;
+    padding: 80px 150px 80px 150px;
     text-align: center;
+    border-top: 1px solid #ddd;
 }
 
 .info-text {
@@ -126,7 +127,7 @@
     align-items: center;
 
     h2 {
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 
     p {
@@ -158,4 +159,12 @@
 
 .proposals-text {
     color: #fff;
+}
+
+.summary {
+    background-color: #f8f8f8;
+}
+
+.summary-text {
+    color: #555;
 }
