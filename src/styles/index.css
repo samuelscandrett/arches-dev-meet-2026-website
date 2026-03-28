@@ -123,6 +123,8 @@
 }
 
 .info-text {
+    position: relative;
+    z-index: 2;
     justify-content: center;
     align-items: center;
     overflow: hidden;
@@ -149,6 +151,7 @@
 .tickets {
     position: relative;
     background-color: #FAAFA0;
+    z-index: 1;
 }
 
 .tickets::before {
@@ -163,11 +166,13 @@
     color: rgba(0, 0, 0, 0.07);
     pointer-events: none;
     transition: transform 250ms;
+    z-index: 1;
 }
 
 .tickets:hover::before {
     transform: translate(-50%, -48%) rotate(-10deg) scale(1.05);
     color: rgba(0, 0, 0, 0.09);
+    z-index: 1;    
 }
 
 .tickets-text {
