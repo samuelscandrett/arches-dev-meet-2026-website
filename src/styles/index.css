@@ -125,6 +125,7 @@
 .info-text {
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 
     h2 {
         margin-bottom: 20px;
@@ -146,7 +147,21 @@
 }
 
 .tickets {
+    position: relative;
     background-color: #FAAFA0;
+}
+
+.tickets::before {
+    content: "\f145"; /* fa-ticket */
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-15deg);
+    font-size: 23rem;
+    color: rgba(0, 0, 0, 0.07);
+    pointer-events: none;
 }
 
 .tickets-text {
@@ -154,7 +169,22 @@
 }
 
 .proposals {
+    position: relative;
     background-color: rgb(150, 158, 246);
+}
+
+.proposals::before {
+    content: "\f51b"; /* fa-chalkboard */
+    content: "\f3c9"; /* fa-microphone-lines */
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(15deg);
+    font-size: 23rem;
+    color: rgba(0, 0, 0, 0.07);
+    pointer-events: none;
 }
 
 .proposals-text {
