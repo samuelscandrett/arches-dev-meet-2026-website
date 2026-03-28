@@ -22,6 +22,17 @@
     z-index: 1;
 }
 
+.hero-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
 .hero-progress-container {
     position: absolute;
     bottom: 0;
@@ -39,20 +50,23 @@
 }
 
 .hero-bg-image {
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    z-index: 1;
     filter: brightness(60%);
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
 }
 
-.hero-bg-image.active {
+.hero-slide.active {
     opacity: 1;
+}
+
+.hero-attribution {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(0,0,0,.5);
+    padding: 10px;
+    font-size: 12px;
 }
 
 .hero-overlay {
