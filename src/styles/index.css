@@ -169,10 +169,10 @@
     z-index: 1;
 }
 
-.tickets:hover::before {
+.tickets:has(.tickets-button:hover)::before {
     transform: translate(-50%, -48%) rotate(-10deg) scale(1.05);
     color: rgba(0, 0, 0, 0.09);
-    z-index: 1;    
+    z-index: 1;
 }
 
 .tickets-text {
@@ -199,9 +199,10 @@
     transition: transform 250ms;
 }
 
-.proposals:hover::before {
+.proposals:has(.proposals-button:hover)::before {
     transform: translate(-50%, -48%) rotate(10deg) scale(1.05);
     color: rgba(0, 0, 0, 0.09);
+    z-index: 1;
 }
 
 .proposals-text {
