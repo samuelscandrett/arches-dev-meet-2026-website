@@ -162,6 +162,12 @@
     font-size: 23rem;
     color: rgba(0, 0, 0, 0.07);
     pointer-events: none;
+    transition: transform 250ms;
+}
+
+.tickets:hover::before {
+    transform: translate(-50%, -48%) rotate(-10deg) scale(1.05);
+    color: rgba(0, 0, 0, 0.09);
 }
 
 .tickets-text {
@@ -185,6 +191,12 @@
     font-size: 23rem;
     color: rgba(0, 0, 0, 0.07);
     pointer-events: none;
+    transition: transform 250ms;
+}
+
+.proposals:hover::before {
+    transform: translate(-50%, -48%) rotate(10deg) scale(1.05);
+    color: rgba(0, 0, 0, 0.09);
 }
 
 .proposals-text {
