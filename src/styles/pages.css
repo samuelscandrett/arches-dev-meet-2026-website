@@ -2,26 +2,15 @@
     display: block;
     padding: 80px;
     color: #555;
-    h1 {
-        /* font-size: 400%;
-        font-weight: 600; */
+    h1, h2, h3, h4 {
         margin-bottom: 20px;
     }
-
-    h2 {
-        /* font-size: 300%;
-        font-weight: 600; */
-        margin-bottom: 20px;
-    }
-    h3 {
-        /* font-size: 200%;
-        font-weight: 600; */
-        margin-bottom: 20px;
-    }
-    p {
-        /* font-size: 1.5rem;
-        font-weight: 300; */
+    p, ul, li {
         margin-bottom: 1rem;
+    }
+    ul, li {
+        margin-left: 1em;
+        list-style-type: disc;    
     }
 }
 
