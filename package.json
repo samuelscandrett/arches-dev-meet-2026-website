@@ -1,5 +1,5 @@
 {
-  "name": "arches-dev-meet-website",
+  "name": "arches-dev-meet-2026-website",
   "version": "1.0.0",
   "main": "index.js",
 "scripts": {
@@ -8,9 +8,9 @@
     "watch": "npx @11ty/eleventy --watch"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Samuel Scandrett - Knowledge Integration",
+  "license": "Apache-2.0",
+  "description": "Static website for the Arches developer meeting 2026",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2"
   }
