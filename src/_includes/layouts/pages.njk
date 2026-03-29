@@ -2,20 +2,20 @@
 
 {% block content %}
 
+{% if image %}
 <section class="page-hero">
     <div class="page-hero-image">
         <img src="{{ image.path }}" alt="{{ image.alt }}" class="hero-bg-image">
         <div class="hero-attribution">{{ image.attr }}</div>
     </div>
 
-
     <div class="page-hero-overlay">
         <div class="page-hero-text-box">
             <h1>{{ title }}</h1>
         </div>
     </div>
-
 </section>
+{% endif %}
 
 <section class="main-content">
     {{ content | safe }}

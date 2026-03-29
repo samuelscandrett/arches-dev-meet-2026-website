@@ -2,6 +2,9 @@
     display: block;
     padding: 80px;
     color: #555;
+    h1 {
+        font-size: 250%;
+    }
     h1, h2, h3, h4 {
         margin-bottom: 20px;
     }
