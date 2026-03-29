@@ -1,10 +1,9 @@
 ---
 title: Venue
-description: "Description text."
 image:
-  path: "/assets/images/pot-of-gold.jpeg"
-  alt: "Venue image"
-  attr: "Venue image"
+  path: "/assets/images/"
+  alt: "The Millennium Gallery"
+  attr: "Millennium Gallery (photo by x)"
 layout: layouts/pages.njk
 permalink: /venue/index.html
 ---
