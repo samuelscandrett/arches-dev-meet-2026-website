@@ -41,6 +41,8 @@ What3Words: [https://w3w.co/grapes.bets.poems](https://w3w.co/grapes.bets.poems)
 
 ## Getting to the Millennium Gallery
 
+#### For general travel information to Sheffield, see our page on [travel](/travel-information).
+
 ### By foot 
 
 The Millennium Gallery is within Sheffield City Centre, and from the easiest method of travel from the centre is by foot.
@@ -49,6 +51,35 @@ The Millennium Gallery is within Sheffield City Centre, and from the easiest met
 - 7 minutes from Sheffield Cathedral
 - 7 minutes from Sheffield Train Station
 
+### By road
+
+From the M1 leave at junction 33 and take the A57 to Sheffield. Follow signs for the city centre and the theatres.
+
+Read about the Sheffield Clean Air Zone at [sheffield.gov.uk](sheffield.gov.uk).
+
+There is plenty of car parking near to the Millennium Gallery. The closest is the Britannia car park opposite the Crucible Theatre.
+
+As stated on the Sheffield Museums website,
+"*Visitors using the [Q Park car park](https://www.q-park.co.uk/en-gb/cities/sheffield/charles-street/) on Charles Street are able to claim 30% off the price of their pre-booked parking thanks to a special deal we have with Q Park - to claim the discount just visit the link above, follow the pre-booking process, select 'I have a promotion code' on the payment screen and enter the code SMCSDR30.*"
+
+### By rail
+
+Leave the station, cross the road and walk straight up Howard Street, by Sheffield Hallam University. 
+
+You will be able to see the Millennium Gallery at the top of the hill.
+
+### By bus and tram
+
+The Millennium Gallery is easily reached from any city centre bus and tram stop.
+
+### By bike
+
+There is bike parking available in front of the Ambulo café on Arundel Gate. Please be aware that bikes are not permitted in the gallery.
+
 <br>
 
-#### For general travel information to Sheffield, see our page on [travel](/travel-information).
+## Accessibility
+
+Visit the [Millennium Gallery page](https://www.sheffieldmuseums.org.uk/visit-us/millennium-gallery/accessibility/) for information on accessibility facilities.
+
+Please reach out to us if you have any additional accessibility queries.
