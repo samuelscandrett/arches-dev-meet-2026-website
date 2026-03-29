@@ -163,6 +163,7 @@
     pointer-events: none;
     transition: transform 250ms;
     z-index: 1;
+    line-height: 1;
 }
 
 .tickets:has(.tickets-button:hover)::before {
@@ -193,6 +194,7 @@
     color: rgba(0, 0, 0, 0.07);
     pointer-events: none;
     transition: transform 250ms;
+    line-height: 1;
 }
 
 .proposals:has(.proposals-button:hover)::before {
