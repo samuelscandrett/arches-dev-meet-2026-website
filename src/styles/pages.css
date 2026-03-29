@@ -8,10 +8,11 @@
     h1, h2, h3, h4 {
         margin-bottom: 20px;
     }
-    p, ul, li {
+    p {
         margin-bottom: 1rem;
     }
     ul, li {
+        margin-bottom: 0.5rem;
         margin-left: 1em;
         list-style-type: disc;    
     }

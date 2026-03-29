@@ -4,7 +4,6 @@ layout: layouts/pages.njk
 permalink: /contact/index.html
 ---
 
-# Contact
 
 The 2026 Arches Developer Meeting is hosted by Knowledge Integration, with a great amount of help from the Getty Conservation Institute.
 
