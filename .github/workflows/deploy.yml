@@ -1,0 +1,54 @@
+name: Deploy 11ty site to GitHub pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+env:
+  environment: production
+  build_command: ${{ vars.BUILD_COMMAND || 'npm run build' }}
+  publish_dir: ${{ vars.PUBLISH_DIR || '_site' }}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout    
+        uses: actions/checkout@v4
+      
+      - name: Setup Node      
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+      
+      - name: Install dependencies & build
+        run: |
+          npm install
+          npm build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "./_site"          
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
