@@ -1,8 +1,4 @@
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
-
 module.exports = function (eleventyConfig) {
-
-    eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
     eleventyConfig.addPassthroughCopy('src/styles');
     eleventyConfig.addWatchTarget('src/styles');
@@ -12,8 +8,11 @@ module.exports = function (eleventyConfig) {
         return collection.getFilteredByGlob('src/pages/*.md');
     });
 
+    const isProduction = process.env.NODE_ENV === "production";
+    const repoName = "/arches-dev-meeting-2026/"
+
     return {
-        pathPrefix: "/arches-dev-meeting-2026/",
+        pathPrefix: isProduction ? repoName : "/",
         dir: {
             input: 'src',
             output: "_site"

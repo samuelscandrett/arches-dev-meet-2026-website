@@ -5,7 +5,7 @@
 {% if image %}
 <section class="page-hero">
     <div class="page-hero-image">
-        <img src="{{ image.path }}" alt="{{ image.alt }}" class="hero-bg-image">
+        <img src="{{ image.path | url }}" alt="{{ image.alt }}" class="hero-bg-image">
         <div class="hero-attribution">{{ image.attr }}</div>
     </div>
 
