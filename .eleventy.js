@@ -9,7 +9,7 @@ module.exports = function (eleventyConfig) {
     });
 
     const isProduction = process.env.NODE_ENV === "production";
-    const repoName = "/arches-dev-meeting-2026/"
+    const repoName = "/arches-dev-meeting-2026-website/"
 
     return {
         pathPrefix: isProduction ? repoName : "/",
