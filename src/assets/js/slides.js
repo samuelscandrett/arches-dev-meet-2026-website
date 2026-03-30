@@ -1,7 +1,7 @@
 const slides = document.querySelectorAll('.hero-slide');
 const progressBar = document.getElementById('progress-bar');
 let currentIndex = 0;
-const slideDuration = 8000; // 8 seconds
+const slideDuration = 6000; // 6 seconds
 
 function showNextSlide() {
     // Remove 'active' class from current slide, increment and
