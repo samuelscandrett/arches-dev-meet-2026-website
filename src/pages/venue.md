@@ -1,9 +1,9 @@
 ---
 title: Venue
 image:
-  path: "/assets/images/"
+  path: "/assets/images/sheffield/millennium-gallery.jpg"
   alt: "The Millennium Gallery"
-  attr: "Millennium Gallery (photo by x)"
+  attr: "Millennium Gallery (photo by Samuel Scandrett)"
 layout: layouts/pages.njk
 permalink: /venue/index.html
 ---
