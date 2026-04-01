@@ -64,4 +64,4 @@ It goes without saying that Sheffield is very well known for its music scene, ra
     <img src="/assets/images/sheffield/am-elephant.jpg" alt="Arctic Monkeys AM elephant"/>
 </div>
 
-Sheffield has one of the largest theatre complexes outside of London, centred around the Crucible theatre, which is also the home of world Snooker. But Snooker isn't the only sport the city is known for. Sheffield the birthplace of football and home to the world's first football club, Sheffield FC. 
+Sheffield has one of the largest theatre complexes outside of London, centred around the Crucible theatre, which is also the home of world Snooker. But Snooker isn't the only sport the city is known for. Sheffield is also the birthplace of football and home to the world's first football club, Sheffield FC. 
