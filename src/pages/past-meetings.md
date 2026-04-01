@@ -21,7 +21,7 @@ The 3-day meeting was attended by 30 developers, representing 11 organisations f
 
 For more information, including the complete list of presentation topics and outcomes, read the full report on the 2024 Arches Developer meeting on the [Arches Project website](https://www.archesproject.org/report-on-the-2024-arches-developer-meeting-in-los-angeles/).
 
-<img src="https://www.archesproject.org/wp-content/uploads/2024/05/DEVS_NEW_Mar_2024_used-980x729.png" alt="Arches developers at the 2024 developer meeting" width="800"/>
+<img src="https://www.archesproject.org/wp-content/uploads/2024/05/DEVS_NEW_Mar_2024_used-980x729.png" alt="Arches developers at the 2024 developer meeting" width="80%"/>
 
 ### Belfast, 2025
 
@@ -31,7 +31,7 @@ The meeting was attended by great number of individuals from over a dozen organi
 
 For more information, including the complete list of presentation topics and outcomes, read the full report on the 2025 Arches Developer meeting on the [Arches Project website](https://www.archesproject.org/report-on-the-2025-arches-developer-meeting-in-belfast/).
 
-<img src="https://www.archesproject.org/wp-content/uploads/2025/05/DSCF4409_sRGB-3-1-scaled.jpg" alt="Arches developers at the 2025 developer meeting" width="800"/>
+<img src="https://www.archesproject.org/wp-content/uploads/2025/05/DSCF4409_sRGB-3-1-scaled.jpg" alt="Arches developers at the 2025 developer meeting" width="80%"/>
 
 <br>
 
