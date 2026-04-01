@@ -20,6 +20,14 @@ If you're interested in learning more about to the sites and history of Sheffiel
 
 <br>
 
+## Tickets
+
+Registration for the Arches Developer Meeting 2026 is now open!
+
+Tickets can be acquired via our [Eventbrite page](https://www.eventbrite.com/e/arches-developer-meeting-2026-tickets-1986440266310). The Arches Developer Meeting is a free event, though we ask attendees to sign up for tickets, as this will provide us with accurate figures on attendance and help with tasks such as room layout and catering.
+
+<br>
+
 ## See you soon!
 
 We're very excited to welcome you to Sheffield for the Arches Developer Meeting 2026, and can't wait to hear all of the presentations and discussions! We're confident it will be a productive and fun week (fingers crossed Sheffield brings the sun)!
