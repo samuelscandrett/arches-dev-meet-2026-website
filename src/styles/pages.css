@@ -70,3 +70,14 @@
         margin: 0;
     }
 }
+
+.inner-page-images {
+  display: flex;
+  gap: 15px;
+}
+
+.inner-page-images img {
+  width: 49%;
+  height: 300px;
+  object-fit: cover;
+}
