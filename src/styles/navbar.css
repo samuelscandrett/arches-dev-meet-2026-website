@@ -42,6 +42,10 @@
     transition: all 0.5s ease-in-out;
 }
 
+.btn-dark {
+    color: #555;
+}
+
 .navbar-option {
     position: relative;
     display: inline-block;
