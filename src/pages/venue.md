@@ -84,3 +84,7 @@ There is bike parking available in front of the Ambulo café on Arundel Gate. Pl
 Visit the [Millennium Gallery page](https://www.sheffieldmuseums.org.uk/visit-us/millennium-gallery/accessibility/) for information on accessibility facilities.
 
 Please reach out to us if you have any additional accessibility queries.
+
+<br>
+
+<img src="/assets/images/sheffield/arches-mg.png" alt="The Millennium Gallery as seen through Arches" width="90%"/>
