@@ -9,11 +9,8 @@ module.exports = function (eleventyConfig) {
         return collection.getFilteredByGlob('src/pages/*.md');
     });
 
-    const isProduction = process.env.NODE_ENV === "production";
-    const repoName = "/arches-dev-meeting-2026-website/"
-
     return {
-        pathPrefix: isProduction ? repoName : "/",
+        pathPrefix: "/",
         dir: {
             input: 'src',
             output: "_site"

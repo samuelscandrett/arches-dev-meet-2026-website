@@ -33,7 +33,7 @@ jobs:
       - name: Install dependencies & build
         run: |
           npm install
-          NODE_ENV=production npm run build
+          npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
