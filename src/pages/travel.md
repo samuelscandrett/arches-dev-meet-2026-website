@@ -10,9 +10,7 @@ permalink: /travel/index.html
 
 ## Travelling to the UK
 
-Depending on your nationality, you may require a visa or an electronic travel authorisation (ETA) to travel to the United Kingdom. 
-
-Check the [UK Government](https://www.gov.uk/check-uk-visa) for the full information.
+Depending on your nationality, you may require a visa or an electronic travel authorisation (ETA) to travel to the United Kingdom. We recommend checking the linked UK Government websites for the complete information on visas.
 
 It is your responsibility to check your visa requirements and obtain the appropriate travel documents in advance.  
 
@@ -61,3 +59,7 @@ Exit the airport and head towards the Manchester Aiport train station. From ther
 Sheffield has a wide range of methods for getting around, whether it's by public transport (bus or tram), on foot, by bike, or by car.
 
 See the following website on all the best ways of getting around Sheffield: [https://sheffieldcitycentre.com/city-stuff/travelling-into-sheffield-city-centre](https://sheffieldcitycentre.com/city-stuff/travelling-into-sheffield-city-centre).
+
+<br>
+
+<img src="/assets/images/sheffield/travel-poem.jpg" alt="Andrew Motion's poem on the side of Sheffield Hallam University" width="90%"/>
