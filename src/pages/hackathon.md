@@ -1,9 +1,9 @@
 ---
 title: Hackathon / technical extension
 image:
-  path: "/assets/images/sheffield/"
-  alt: ""
-  attr: ""
+  path: "https://www.sheffieldmuseums.org.uk/media/wpsj1kd2/kim-visit-us-intro-ian-m-spooner.jpg?rxy=0.72730899858186149,0.68692870333803113&v=1d9c3a890b2cfa0"
+  alt: "Kelham Island Museum"
+  attr: "Kelham Island Museum (photo by SheffieldMuseums.org)"
 layout: layouts/pages.njk
 permalink: /hackathon/index.html
 ---
