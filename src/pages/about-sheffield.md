@@ -14,19 +14,21 @@ Whether this is your first time visiting or you've seen the sights before, we'd 
 
 ## Local tips
 
-### Coffee
+### Coffee and lunch
 
-...
+Sheffield city centre has many coffee and lunch spots, including Tampa Coffee, 200 Degrees, Marmadukes, Albies, Birdhouse etc. If you're keen on staying near the Millennium Gallery check out the Millennium Gallery itself, the Winter Gardens, Howst.
 
 ### Pubs and bars
 
-Sheffield has a vast number of pubs and bars, many independent, and many that are frequented by K-Int. We would recommend... 
+Sheffield has a vast number of pubs and bars, many independent, and many that are frequented by members of K-Int. To name a few we would recommend: the Old Shoe, Triple Point Brewery, The Fargate, Beer Engine, Vocation, Off the Beaten Track, etc. If you find yourself in Kelham Island, we recommend The Fat Cat, Riverside, The Kelham Island Tavern, Millowners Arms or Gardners Rest.
 
 It's also no secret many in the Arches community are up for a song after some drinks. If you're after karaoke, check out Mojo or Roxy Ball Room.
 
-### History
+### Attractions
 
 The Sheffield Museums group has a number of museums including the Weston Park Museum, Kelham Island Museum, and Millennium Gallery.
+
+Gardens such as the Winter Gardens, Peace Gardens and the Botanical Gardens are worth a visit, and popular parks such as Weston Park, Endcliffe Park, Millhouses Park and Graves Park.
 
 ### Emergency contacts:
 
@@ -38,7 +40,7 @@ Non-emergency medical: 111
 
 ## About the city
 
-With a third of the city located within the Peak District National Park, Sheffield is widely recognised as the UK's greenest city, with 61% of the city classified as green space, over 250 parks, and a higher tree-to-person ratio. In Sheffield, scenic views and green areas are right on the doorstep. Popular walks and trails include Rivelin Valley, the Five Weirs Walk, and the Sheffield Round Walk. Venturing further into the Peak District can take as little as a 15 minute train journey. Hathersage, Froggatt, Bamford and Chatsworth are a few popular destinations. 
+With a third of the city located within the Peak District National Park, Sheffield is widely recognised as the UK's greenest city, with 61% of the city classified as green space, over 250 parks, and a higher tree-to-person ratio. In Sheffield, scenic views and green areas are right on the doorstep. Popular walks and trails include Rivelin Valley, the Five Weirs Walk, and the Sheffield Round Walk. Venturing further into the Peak District can take as little as a 15 minute train journey or a 30 minute bus ride. Hathersage, Froggatt, Bamford, Longshaw and Chatsworth are a few popular destinations.
 
 <div class="inner-page-images">
     <img src="/assets/images/sheffield/ski-village.jpg" alt="View from the old Ski Village"/>
