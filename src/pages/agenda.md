@@ -1,5 +1,9 @@
 ---
 title: Agenda
+image:
+  path: "/assets/images/sheffield/weston-park-museum.jpg"
+  alt: "Weston Park Museum"
+  attr: "Weston Park Museum (photo by Samuel Scandrett)"
 layout: layouts/pages.njk
 permalink: /agenda/index.html
 ---

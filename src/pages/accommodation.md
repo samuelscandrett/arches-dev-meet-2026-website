@@ -1,5 +1,9 @@
 ---
 title: Accommodation
+image:
+  path: "https://www.welcometosheffield.co.uk/media/0v2oxb04/wintergardens2-1.jpg?width=1900&height=600&quality=100&v=1dc5945b5dedf50"
+  alt: "Winter Gardens"
+  attr: "Winter Gardens (photo by welcometosheffield.co.uk)"
 layout: layouts/pages.njk
 permalink: /accommodation/index.html
 ---

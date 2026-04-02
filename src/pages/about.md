@@ -1,7 +1,7 @@
 ---
-title: About the Arches developer meeting 
+title: Welcome to the Arches Developer Meeting 2026
 image:
-  path: "/assets/images/sheffield/"
+  path: "/assets/images/sheffield/sheffield-sign.jpg"
   alt: ""
   attr: ""
 layout: layouts/pages.njk
